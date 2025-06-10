@@ -1,5 +1,7 @@
 # Uni-DUX-Y1-A3
 
+17:09 10/6/25 - uploaded Omikane Listing Page.html, uploaded Omikane Checkout Page.html, uploaded Omikane CSS.css
+
 11:54 10/6/25 - uploaded index.html as a renamed Omikane Main Page.html
 
 03:20 10/6/25 - uploaded a largely complete homepage, image links off-site for now, internal links not working.
