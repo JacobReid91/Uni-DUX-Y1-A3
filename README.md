@@ -1,6 +1,6 @@
 # Uni-DUX-Y1-A3
 
-10:48 11/06/25 - removed <style> part from index.html, added <title> tag
+10:48 11/06/25 - added <title> tag to index.html
 
 10:25 11/06/25 - modified style.css to pass https://jigsaw.w3.org/css-validator/
 
