@@ -1,5 +1,7 @@
 # Uni-DUX-Y1-A3
 
+09:41 11/06/25 - uploaded listing.html to replace Omikane Listing Page.html, uploaded checkout.html to replace Omikane Checkout page
+
 17:09 10/6/25 - uploaded Omikane Listing Page.html, uploaded Omikane Checkout Page.html, uploaded Omikane CSS.css
 
 11:54 10/6/25 - uploaded index.html as a renamed Omikane Main Page.html
