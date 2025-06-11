@@ -1,5 +1,7 @@
 # Uni-DUX-Y1-A3
 
+10:48 11/06/25 - removed <style> part from index.html, added <title> tag
+
 10:25 11/06/25 - modified style.css to pass https://jigsaw.w3.org/css-validator/
 
 10:01 11/06/25 - fixed menu bar to go to correct locations
