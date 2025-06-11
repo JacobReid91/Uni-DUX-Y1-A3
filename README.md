@@ -1,5 +1,7 @@
 # Uni-DUX-Y1-A3
 
+10:01 11/06/25 - fixed menu bar to go to correct locations
+
 09:43 11/06/25 - removed Omkane Listing Page.hmtl, Omikane Checkout Page.html, Omikane Main Page.html. placeholder large.png removed & replaced with PHLarge.png, placeholder small removed & replaced with PHSmall.png, placeholder squareish.png removed & replaced with PHSquarish.png, Omikane CSS removed & replaced with style.css
 
 09:41 11/06/25 - uploaded listing.html to replace Omikane Listing Page.html, uploaded checkout.html to replace Omikane Checkout page
