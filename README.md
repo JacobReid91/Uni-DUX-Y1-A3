@@ -1,5 +1,7 @@
 # Uni-DUX-Y1-A3
 
+13:08 11/06/25 - ran out of energy, motivation, and willpower to continue on this.
+
 11:35 11/06/25 - corrected minor typos, links now work properly, added title to checkout.html
 
 11:31 11/06/25 - added link to checkout.html, on the "BUY NOW" section on listing.html
