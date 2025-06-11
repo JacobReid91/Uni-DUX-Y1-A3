@@ -1,6 +1,8 @@
 # Uni-DUX-Y1-A3
 
-11:28 11/06/25 - added link to listing.html, link on the "Devil's Street 2 : Remastered" section on index.html
+11:31 11/06/25 - added link to checkout.html, on the "BUY NOW" section on listing.html
+
+11:28 11/06/25 - added link to listing.html, on the "Devil's Street 2 : Remastered" section on index.html
 
 10:48 11/06/25 - added <title> tag to index.html
 
