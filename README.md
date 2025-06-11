@@ -1,5 +1,20 @@
 # Uni-DUX-Y1-A3
 
+11:19 11/06/25 - Updated to mention changes from wireframe, listed as follows:
+                 All images on the wireframe are AI generated using Canva's built-in AI image generator - changed to placeholders in the build
+                 Added a top navigation bar to aid navigation
+                 Added a footer for copyright and potential room for links
+                 Changes on Store Main Page:
+                 AI generated  images replaced with generic placeholders
+                 Made up game names added to the New & Trending Section
+                 Changes on Listing Page:
+                 AI generated images replaced with placeholders.
+                 Added small placeholder image in the box saying Minor Descriptor/Reviews/Tags
+                 Added horizontal rule to help divide and organize the page
+                 Changes on Checkout Page:
+                 AI generated images replaced with placeholders.
+                 Table lines added to maintain organization, and grey boxes removed to make things clearer.
+
 13:08 11/06/25 - ran out of energy, motivation, and willpower to continue on this.
 
 11:35 11/06/25 - corrected minor typos, links now work properly, added title to checkout.html
