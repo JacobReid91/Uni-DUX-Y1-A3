@@ -1,5 +1,7 @@
 # Uni-DUX-Y1-A3
 
+11:28 11/06/25 - added link to listing.html, link on the "Devil's Street 2 : Remastered" section on index.html
+
 10:48 11/06/25 - added <title> tag to index.html
 
 10:25 11/06/25 - modified style.css to pass https://jigsaw.w3.org/css-validator/
